@@ -66,7 +66,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="instructions" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -110,7 +110,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q1_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -154,7 +154,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q2_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -198,7 +198,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q3_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -242,7 +242,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q4_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -286,7 +286,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q5_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -330,7 +330,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q6_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -374,7 +374,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q7_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -418,7 +418,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q8_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -462,7 +462,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q9_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -506,7 +506,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q10_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -550,7 +550,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q11_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -594,7 +594,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q12_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -638,7 +638,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q13_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -682,7 +682,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q14_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -726,7 +726,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q15_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -770,7 +770,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Exit" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
@@ -814,7 +814,7 @@
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
         <Param name="name" updates="None" val="Q_2" valType="code"/>
-        <Param name="saveStartStop" updates="None" val="False" valType="bool"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
         <Param name="startEstim" updates="None" val="" valType="code"/>
         <Param name="startType" updates="None" val="time (s)" valType="str"/>
         <Param name="startVal" updates="None" val="0.0" valType="code"/>
